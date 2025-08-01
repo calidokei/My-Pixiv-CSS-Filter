@@ -8,7 +8,7 @@
 
 ## 作った人
 カリドけい Calido Kei
-tommykprotoia@gmail.com
+メール：tommykprotoia@gmail.com
 
 ## バージョン履歴
 ver.1.0 リリース。重複箇所あるかもしれんがわからん。。
